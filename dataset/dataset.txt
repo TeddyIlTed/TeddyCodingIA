@@ -1,0 +1,8 @@
+Calcola la tabellina del 2. 
+for i in range(1, 11):
+    print("2 x", i, "=", 2*i)
+    
+Stampa la somma di due numeri.
+a = 10
+b = 5
+print("La somma di", a, "e", b, "è", a+b)
